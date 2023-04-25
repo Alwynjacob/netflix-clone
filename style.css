@@ -12,10 +12,10 @@ html{
 }
 
 .top_header{
-height: 106vh;
+height: 600px;
 }
 .container{
-    height:100vh;
+    height:600px;
 
 }
 .sel{
@@ -63,7 +63,7 @@ top:7px;}
 background-size: cover;
     border-radius: 10px;
 margin: 40px 40px 0px 40px;
-    height:80vh;
+    height:500px;
 }
 .content1{
     opacity: 1;
